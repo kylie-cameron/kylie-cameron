@@ -1,0 +1,243 @@
+html, body {
+  font-family: 'Heebo', sans-serif;
+  height: 100%;
+  width: 100%;
+  padding: 0%;
+  margin: 0%;
+}
+table, img, a, button {
+  font-family: 'Heebo', sans-serif;
+}
+#home {
+  height: auto;
+  width: 100%;
+} 
+
+#movecenter {
+	margin-bottom:0%;
+	padding-bottom:0%;
+	text-align: center;
+	font-size: 45px;
+}
+#movecenterp {
+	margin-top:0%;
+	padding-top:0%;
+	text-align: center;
+	color:#6a6a6a;
+	font-size: 30;
+}
+.wecan {
+	text-align: center;
+	font-size:1.2rem;
+	color:#333;
+	padding:0;
+	margin:0;
+	text-decoration-color:#e3effb;
+}
+.adx {
+	text-align: center;
+	font-size:1.2rem;
+	color:#333;
+	padding:0;
+	margin:0;
+	text-decoration-color:#dbecff;;
+}
+.sust {
+	text-align: center;
+	font-size:1.2rem;
+	color:#333;
+	padding:0;
+	margin:0;
+	text-decoration-color:#e9fbe3;
+}
+.iag {
+	text-align: center;
+	color: #333;
+	padding:0;
+	margin:0;
+	text-decoration-color:#FFF1F9;
+}
+.plant {
+	text-align: center;
+  color: #333;
+	padding:0;
+	margin:0;
+  text-decoration-color:#e8f0d5;
+}
+.tutor {
+	text-align: center;
+  font-size:25px;
+  color: #333;
+	padding:0;
+	margin:0;
+  text-decoration-color:#F3E7F6;
+}
+.wecanmag {
+	text-align: center;
+  font-size:25px;
+  color: #333;
+	padding:0;
+	margin:0;
+  text-decoration-color:#FBE3F6;
+}
+.soc {
+	text-align: center;
+  font-size:25px;
+  color: #333;
+	padding:0;
+	margin:0;
+  text-decoration-color:#EEFBE3;
+}
+img {
+	float: center;
+  width:90%;
+  height:auto;
+}
+#h1port {
+	text-align: center;
+  padding:0%;
+  margin:0%;
+}
+#pport {
+	text-align: center;
+	color:#6a6a6a;
+  padding:0%;
+  margin:0%;
+}
+#abouth1 {
+	text-align: center;
+  padding-left:4%;
+  padding-bottom:0%;
+  margin-bottom:0%;
+}
+#aboutp {
+	text-align: center;
+  color:#6a6a6a;
+  padding-top:0%;
+  margin-top:0%;
+}
+.mono {
+	text-align: center;
+  color:#333;
+  text-decoration:none;
+}
+.theemail {
+	text-align: center;
+	text-decoration:none;
+	color:black;
+}
+
+#portfolioimgs {
+  length: auto;
+  width: 80%;
+}
+.topnav {
+  background-color: #EFD2E5;
+  overflow: hidden;
+  width: 89%;
+
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 26px;
+  font-size: 30px;
+}
+.bottomnav {
+  background-color: #E1D2EF;
+  overflow: hidden;
+  width: 89%;
+
+}
+
+/* Style the links inside the navigation bar */
+.bottomnav a {
+  text-decoration: none;
+  color: #ffffff;
+  text-align: center;
+  padding: 20px 26px;
+  font-size: 30px;
+}
+/*remume section */
+#resumeh1 {
+  padding-left:5%;
+  padding-top:0%;
+	font-size:2.5rem;
+	color: #333;
+	margin-bottom:0%;
+	padding-bottom:0%;
+}
+#resumeh2 {
+  padding-left:5%;
+	font-size:2rem;
+	color: #333;
+  padding-top: 0%;
+	margin-bottom:0%;
+	padding-bottom:0%;
+}
+#resumeh3 {
+  font-size:1rem;
+  padding-left:5%;
+  color: #333;
+  padding-top: 0%;
+  margin-bottom:0%;
+  padding-bottom:0%;
+}
+#resumep {
+  padding-left:5%;
+	color: #333;
+  padding-top: 0%;
+	margin-bottom:0%;
+	padding-bottom:0%;
+  text-decoration: none;
+}
+#copyright {
+  padding-bottom: 2%;
+  font-size: 20px;
+  margin: 0;
+}
+#sustainableintro {
+  padding-top:4%;
+  width:60% ;
+  height:auto ;
+}
+#sush1, #susp {
+  padding-left:20%;
+  padding-top: 0;
+  padding-bottom:0;
+  margin-top: 0;
+  margin-bottom:0;
+}
+.susnav {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 89%;
+
+}
+
+/* Style the links inside the navigation bar */
+.susnav a {
+  text-decoration: none;
+  color: ##383838;
+  text-align: center;
+  padding: 20px 26px;
+  font-size: 20px;
+}
+.susnav2 {
+  padding-left:18%;
+  background-color: #ffffff;
+  overflow: hidden;
+
+}
+
+/* Style the links inside the navigation bar */
+.susnav2 a {
+  text-decoration: none;
+  color: ##383838;
+  text-align: center;
+  padding: 20px 26px;
+  font-size: 20px;
+}
